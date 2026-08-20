@@ -1,0 +1,13 @@
+{
+  "name": "svelte-derived-override-repro",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "svelte": "^5.56.10"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.3.0",
+    "jsdom": "^30.0.1",
+    "vitest": "^4.1.11"
+  }
+}
